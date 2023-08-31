@@ -13,7 +13,7 @@ public class Main
     //main() method 
     public static void main (String args[])
     {
-    //delare one variable n
+    //declare one variable n
     int n;
     //create Scanner class Object
     Scanner scnr=new Scanner(System.in);
